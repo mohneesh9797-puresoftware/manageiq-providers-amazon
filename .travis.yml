@@ -1,4 +1,7 @@
 ---
+arch:
+- amd64
+- arm64 
 language: ruby
 cache: bundler
 rvm:
